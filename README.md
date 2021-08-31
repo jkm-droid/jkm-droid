@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jkm-droid
-- 👀 I’m interested in web development using django, mobile dev using java, python
+- 👀 I am a fullstack web developer(using django and laravel frameworks) and an android mobile developer(using java)
+- I am currently looking for a job and open to any software development or technology related task(s)
 - 🌱 I’m currently learning Automation using python
-- 💞️ I’m looking to collaborate on any java and python project
+- 💞️ I’m looking to collaborate on any java, laravel, django, and python project
 - 📫 How to reach me @jkmdroid - twitter, joshlinnas@gmail.com, jkmdroid - instagram
 
 <!---
