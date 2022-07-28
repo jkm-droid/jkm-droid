@@ -1,4 +1,4 @@
-                                                  *Hello there, I'm jkm-droid 👋*
+  Hello there, I'm jkm-droid 👋
 
 **I am a Software Engineer;**
 - 👀 I am a fullstack web developer(using ASP.NET and laravel frameworks)
@@ -7,7 +7,10 @@
 - 📫 How to reach me @jkmdroid - twitter, joshlinnas@gmail.com, jkmdroid - instagram
 
 **Languages and Tools**
-- .Net, PHP, Laravel, git
+- .Net/C#
+- PHP/Laravel
+- Git
+- MySql/PostgreSql
 
 <!---
 jkm-droid/jkm-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
