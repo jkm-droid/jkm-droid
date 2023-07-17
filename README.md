@@ -1,6 +1,6 @@
   Hello there, I'm jkm-droid 👋
   
-  ![jkm-droid's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=jkm-droid&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
+![Bnanyingi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=jkm-droid&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 
 **I am a Software Engineer;**
 - 👀 I am a fullstack web developer(using ASP.NET and laravel frameworks)
